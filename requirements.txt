@@ -1,0 +1,3 @@
+evernote
+pyyaml
+click
